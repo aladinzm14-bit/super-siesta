@@ -34,7 +34,6 @@ export default function App() {
 
       </header>
 
-
       <section className="products">
 
         <div className="card">
@@ -47,7 +46,6 @@ export default function App() {
           <button>Acheter</button>
         </div>
 
-
         <div className="card">
           <img src="product_1.png" alt="Venise+" />
 
@@ -57,7 +55,6 @@ export default function App() {
 
           <button>Acheter</button>
         </div>
-
 
         <div className="card">
           <img src="product_2.png" alt="Soft+" />
