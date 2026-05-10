@@ -15,7 +15,7 @@ export default function App() {
 
           <a
             className="btn"
-            href="https://wa.me/21642152160"
+           href="https://wa.me/21642152160"
           >
             Commander Maintenant
           </a>
